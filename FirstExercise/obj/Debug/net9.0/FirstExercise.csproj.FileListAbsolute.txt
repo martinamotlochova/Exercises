@@ -1,0 +1,15 @@
+/Users/home/Work/Exercises/FirstExercise/bin/Debug/net9.0/FirstExercise
+/Users/home/Work/Exercises/FirstExercise/bin/Debug/net9.0/FirstExercise.deps.json
+/Users/home/Work/Exercises/FirstExercise/bin/Debug/net9.0/FirstExercise.runtimeconfig.json
+/Users/home/Work/Exercises/FirstExercise/bin/Debug/net9.0/FirstExercise.dll
+/Users/home/Work/Exercises/FirstExercise/bin/Debug/net9.0/FirstExercise.pdb
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/FirstExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/FirstExercise.AssemblyInfoInputs.cache
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/FirstExercise.AssemblyInfo.cs
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/FirstExercise.csproj.CoreCompileInputs.cache
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/FirstExercise.sourcelink.json
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/FirstExercise.dll
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/refint/FirstExercise.dll
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/FirstExercise.pdb
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/FirstExercise.genruntimeconfig.cache
+/Users/home/Work/Exercises/FirstExercise/obj/Debug/net9.0/ref/FirstExercise.dll
